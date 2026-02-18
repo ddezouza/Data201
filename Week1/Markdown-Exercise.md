@@ -1,4 +1,4 @@
-# My First Markdown 
+# Practicing Markdown 
 #### Author
 **Written by:** Daniela Melo
 
@@ -18,9 +18,9 @@ I had to take a break for a semester because of work responsibilities, but I'm g
   - I'm trying journaling this year, it's been a lot of fun!
 - Drawing and painting
   - I used this hobby for my Data 110 art project:
-    ![Data 110 Project]([Art Project/ProjectImage.jpg](https://github.com/ddezouza/Data110/blob/ed541e91085beee91e76a324998bf61abeaed0b7/Art%20Project/ProjectImage.jpg))
+    ![Data 110 Project](https://github.com/ddezouza/Data110/blob/ed541e91085beee91e76a324998bf61abeaed0b7/Art%20Project/ProjectImage.jpg)
 - Watching movies
-  - The last movie I watched was *I'm Still Here*, Directed by Walter Salles 
+  - I recently watched the extended editions of The Lord of The Rings in cinema. It was a great experience, I highly recommend it!
 
 ### Favourite Quotes
 I like reading a lot, so here are some of my favourite quotes: 
@@ -37,24 +37,22 @@ I like reading a lot, so here are some of my favourite quotes:
 >
 >-- J.R.R. Tolkien
 
-### Learning in 2025
-2025 has started as a pretty heavy year learning-wise for me. I'm currently taking lots of different classes, including of course this one. 
-Here are all the classes I'm taking currently: 
+### Plans for 2026
+I didn't have a great start to 2026, but I've made some plans for the rest of the year: 
 
-1. Data 101
-2. Data 110
-3. ISC2 Cybersecurity Certified Certification Course
-4. Beginner Mandarin for Adults
+1. Finish Data Science Certificate at MC
+2. Get a new job
+3. Finish Cybersecurity certifications
+4. Apply for Data Science masters at UMD
+5. Go to Brazil 
 
-This may not seem like much for a full-time student, but I also have a full-time job!! 
-
-As I mentioned, I'm currently working as a Research Analyst for a consulting company called [ACA Aponix.](https://www.acaglobal.com/our-solutions/cybersecurity-privacy-risk)[^1]
+As I was recently laid off from my position at  [ACA Aponix.](https://www.acaglobal.com/our-solutions/cybersecurity-privacy-risk)[^1] I have been looking for other options. But I decided not to let that get me down and have been actively pursuing my hobbies and classes in the meantime.
 [^1]:ACA Aponix is a branch of GRC advisory services company ACA Group. Aponix is the business unit focused primarily on cybersecurity. 
 
 ### Coding
-The only coding experience I had before this class was working with R for my biostatistics classes in college. Needless to say, I have no experience using Python and this is my first time actually working with markdown as well. Hopefully I'll get the hang of things. 
+I'm excited to work more with python. I've only used it in Data 110 so far, but it's very versatile and I'm excited about what else I can do with it.  
 
-I was pleasantly surprised to be working with R once again for Prof. Alraee's Data 101 class. Our first homework was using a package called "swirl" `install.packages("swirl")`. It essentially lets you take different pre-programmed courses directly through the R console, which was really interesting. 
+I wonder if there's something like R's 'swirl' package for quick python practice?  It essentially lets you take different pre-programmed courses directly through the R console,  
 Here's the code to install the package and bring it up: 
 
 ```R
@@ -62,28 +60,27 @@ install.packages("swirl")
 library("swirl")
 swirl()
 ```
-I'm looking forward to learning some Python through this class. 
+I'll be working through the datacamp course but it'd be interesting to see if there are options built directly in python.  
 
-### Goals for 2025
-In 2025 I had/have a few personal and professional goals: 
+### Reading Goals for 2026
+I've decided to read more in 2026: 
 
-- [x] Earn an Exceeds Expectations performance rating for 2024
-- [x] Lead production of 2 new webinars before June 19th (work anniversary).
-- [ ] Get promoted :) 
-- [ ] Earn Cybersecurity Certified ISC2 certification
-- [ ] Finish classes for MC Data Science Certificate
-- [ ] Dedicate more time to my hobbies 
+- [x] Read at least 1 book in January
+- [x] Read 1 novel and 1 long audiobook (more than 20 hours) in February.
+- [ ] Read at least 3 non-fiction books by June 
+- [ ] Start 1 sci-fi series before July
+- [ ] Finish reading the Game of Thrones series before watching 'A Knight of the Seven Kingdoms'  
 
 ### All that remains is a Table
-Since we were pre-warned tables in markdown are a pain, I left this as my last section. 
+Tabes kind of suck in markdown, but I made one. I remember at the end of Data 110 we had a short discussion of the differences between Tableau and Python for data visualization.  
 
 Here are some Pros & Cons of classes online: 
 
-| ***Pros***                          | ***Cons***                                       |
+| ***Python***                          | ***Tableau***                                       |
 |-------------------------------------|--------------------------------------------------|
-| Convenient, no need to drive.       | Uses Zoom which can have technical issues.       |
-| Classes are recorded.               | Sharing screen doesn't always work.              |
-| All materials available online.     | No direct interaction with everyone else.        |
+| Very versatile good for statistics not just visualization.       | Intuitive, easy to play with.       |
+| Requires knowledge of data to know how to build your data frames and work with it in code.               | Information is apparent, you can drop pieces of data and see what works              |
+
 
 ### In Conclusion
 This assignment was time consuming, but I did learn a lot. 
