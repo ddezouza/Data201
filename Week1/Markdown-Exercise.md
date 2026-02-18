@@ -18,7 +18,7 @@ I had to take a break for a semester because of work responsibilities, but I'm g
   - I'm trying journaling this year, it's been a lot of fun!
 - Drawing and painting
   - I used this hobby for my Data 110 art project:
-    ![Data 110 Project](Art Project/ProjectImage.jpg)
+    ![Data 110 Project]([Art Project/ProjectImage.jpg](https://github.com/ddezouza/Data110/blob/ed541e91085beee91e76a324998bf61abeaed0b7/Art%20Project/ProjectImage.jpg))
 - Watching movies
   - The last movie I watched was *I'm Still Here*, Directed by Walter Salles 
 
